@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Safeik.dir/main.cpp.o  -o Safeik 

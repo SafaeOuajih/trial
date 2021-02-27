@@ -1,0 +1,3 @@
+/home/safae/Documents/CProjects/Cmake_tests/build/CMakeFiles/rebuild_cache.dir
+/home/safae/Documents/CProjects/Cmake_tests/build/CMakeFiles/edit_cache.dir
+/home/safae/Documents/CProjects/Cmake_tests/build/CMakeFiles/Safeik.dir
